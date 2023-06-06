@@ -34,7 +34,6 @@ Comentario Button:
 [![comentario.jpg](https://i.postimg.cc/g2r6r0Zd/comentario.jpg)](https://postimg.cc/QFGMyhmn)
 
 Presentacion button:
-
 [![presentacion.jpg](https://i.postimg.cc/VkT0tcqt/presentacion.jpg)](https://postimg.cc/Yv6ScZy2)
 
 Zoom button:
